@@ -1,0 +1,18 @@
+_____________      __ 
+\__    ___/  \    /  \
+  |    |  \   \/\/   /  Version 0.9 for Wordpress 3.3.x
+  |    |   \        /   Developed by starise
+  |____|    \__/\  /    http://www.andreabrandi.com
+                 \/   
+  _________.__                   __                   .___      
+ /   _____/|  |__   ____________/  |_  ____  ____   __| _/____  
+ \_____  \ |  |  \ /  _ \_  __ \   __\/ ___\/  _ \ / __ |/ __ \ 
+ /        \|   Y  (  <_> )  | \/|  | \  \__(  <_> ) /_/ \  ___/ 
+/_______  /|___|  /\____/|__|   |__|  \___  >____/\____ |\___  >
+        \/      \/                        \/           \/    \/ 
+
+=== TODO ===
+
+- Better customization controls
+- Better admin interface
+- Language settings
